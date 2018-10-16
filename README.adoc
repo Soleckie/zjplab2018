@@ -1,5 +1,7 @@
 # zjplab2018
-| Phyton        | Ruby          |   
-| ------------- | ------------- |
-| pylint        | Flog          |
-| mccabe        | RuboCop       |
+
+
+| Phyton          | Ruby            |   
+| :-------------: | :-------------: |
+| pylint          | Flog            |
+| mccabe          | RuboCop         |
