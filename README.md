@@ -3,5 +3,6 @@
 
 | Python          | Ruby            |   
 | :-------------: | :-------------: |
-| pylint          | Flog            |
+| bandit          | Clock           |
 | mccabe          | RuboCop         |
+| pylint          | Flog            |
